@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d82e11;
+      }
+
+      .cls-2 {
+        fill: #590d0f;
+      }
+
+      .cls-3 {
+        fill: #9e1b1e;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M55.15,27.58h-27.57v27.57h27.57v-27.57Z"/>
+  <path class="cls-1" d="M172.42,144.85v27.57h-55.16l27.57-27.57h27.58Z"/>
+  <path class="cls-3" d="M172.42,27.58v117.27h-27.58,0V55.15H55.15v-27.57h117.27Z"/>
+  <path class="cls-1" d="M200,0v144.85h-27.58V27.58H55.15V0h144.85Z"/>
+  <path class="cls-1" d="M117.26,172.43l-27.57,27.57H0V55.15h27.57v117.27h89.69Z"/>
+  <path class="cls-3" d="M144.84,144.85l-27.57,27.57H27.57V55.15s27.57,0,27.57,0v89.7h89.69Z"/>
+  <path class="cls-2" d="M144.85,55.15v89.69h0s-89.69,0-89.69,0V55.15h89.7Z"/>
+</svg>
